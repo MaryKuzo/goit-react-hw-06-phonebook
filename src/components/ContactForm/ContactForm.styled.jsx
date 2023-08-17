@@ -25,22 +25,22 @@ export const FormInput = styled.input`
   margin-left: 20px;
   font-family: Pacifico, serif
   font-size: 14px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+  border: 1px solid #eeb338;
+  border-radius: 10px;
 `
 export const Button = styled.button`
   font-family: Pacifico, serif
   margin-top: 20px;
   padding: 10px 20px;
-  background-color: #467a48;
-  color: #fff;
+  background-color: yellow;
+  color: black;
   font-size: 16px;
   border: none;
-  border-radius: 4px;
+  border-radius: 30px;
   cursor: pointer;
 
  &:hover {
-    background-color: #304030;
+    background-color: #eeb338;
   }
 
 `

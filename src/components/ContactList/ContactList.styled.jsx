@@ -5,5 +5,6 @@ export const ContactUl = styled.ul`
   display: flex;
   align-items: center;
   gap: 20px;
+  flex-wrap: wrap;
   justify-content: center;
 `;

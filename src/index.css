@@ -7,7 +7,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: honeydew;
+  background-color: black;
+  color: yellow;
 }
 
 code {
